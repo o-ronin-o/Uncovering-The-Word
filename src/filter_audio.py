@@ -3,7 +3,7 @@ PLEASE Note that the file should be ran from the src dirctory
 
 
 to run it use the following commands in terminal
-cd your local path\phase1-task1.1-audio-filtering\src
+cd your local path\Uncovering-The-Word\src
 then 
 python filter_audio.py
 
